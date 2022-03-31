@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm MOHAMMAD MIZANUR RAHMAN</h1>
-<h3 align="center">A Full Stack Laravel Developer From Bangladesh</h3>
+<h3 align="center">A Full Stack  Developer From Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammadmizan&label=Profile%20views&color=0e75b6&style=flat" alt="mohammadmizan" /> </p>
 
